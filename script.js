@@ -5,3 +5,9 @@ function myfunction(){
     
 
 }
+function Home(){
+    window.history.go(-1);
+}
+function About(){
+    window.alert("created by dhanunjay")
+}

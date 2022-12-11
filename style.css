@@ -1,0 +1,11 @@
+img{
+    size: 1000000000;
+}
+.menu li{
+    list-style-type: none;
+    display: inline;
+    font-size: .85em;
+    color: #8e8e8e;
+    padding-right: 30px;
+
+}
